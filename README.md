@@ -11,7 +11,7 @@ O bootcamp se baseia em vários estudos de casos com uma abordagem hands-on de a
 
 https://www.igti.com.br/bootcamp/analista-de-dados
 
-====================================
+-----------
 Trabalho Prático do Módulo 01
 
 Objetivos
